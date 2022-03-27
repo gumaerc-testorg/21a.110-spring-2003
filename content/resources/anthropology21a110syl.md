@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Syllabus
 parent_type: CourseSection
+parent_uid: 373ca1cb-23f0-9658-73ec-f86656033e13
 resourcetype: Document
 title: Seminar In Anthropological Theory And Method
 uid: 16679027-30fc-9d0f-b288-77b1f3215b4e
