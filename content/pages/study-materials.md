@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provide a guide to reading long reading assignments for
+  the course.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Study Materials
