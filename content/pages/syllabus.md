@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on meeting times, requirements, reading materials, and grading.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 373ca1cb-23f0-9658-73ec-f86656033e13
 ---
@@ -12,7 +16,7 @@ Lectures: 2 sessions / week, 1.5 hours / session
 Course Description
 ------------------
 
-Syllabus ([PDF]({{< baseurl >}}/resources/anthropology21a110syl))
+Syllabus ({{% resource_link 16679027-30fc-9d0f-b288-77b1f3215b4e "PDF" %}})
 
 This course introduces students to some of the major social theories and debates that inspire and inform anthropological analysis. Over the course of the semester, we will investigate a range of theoretical propositions concerning such topics as agency, structure, subjectivity, history, social change, power, culture, and the politics of representation. Ultimately, all theories can be read as statements about human beings and the worlds they create and inhabit. We will approach each theoretical perspective or proposition on three levels: (1) in terms of its analytical or explanatory power for understanding human behavior and the social world; (2) in the context of the social and historical circumstances in which they were produced; and (3) as contributions to ongoing dialogues and debate.
 
