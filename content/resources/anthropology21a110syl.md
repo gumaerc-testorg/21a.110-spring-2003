@@ -3,6 +3,7 @@ content_type: resource
 description: This course syllabus provides a course description and information on
   requirements, grading, the schedule of readings and assignments, and a reading guide.
 file: /courses/21a-110-anthropological-theory-spring-2003/1667902730fc9d0fb28877b1f3215b4e_anthropology21A110syl.pdf
+file_size: 224929
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
